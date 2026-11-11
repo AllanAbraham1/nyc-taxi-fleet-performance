@@ -1,0 +1,9 @@
+"status","trips","pct_of_trips","total_miles","pct_of_miles"
+"distance_over_100_miles",350,0.00,26855739,42.3
+"duration_over_3h",11523,0.12,69657,0.1
+"non_positive_duration",6919,0.07,136614,0.2
+"non_positive_fare",62372,0.62,193386,0.3
+"pickup_outside_period",53,0.00,376,0.0
+"speed_over_80_mph",9594,0.10,54415,0.1
+"VALID",9762691,97.51,36159040,57.0
+"zero_or_negative_distance",158353,1.58,0,0.0

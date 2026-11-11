@@ -1,0 +1,261 @@
+"locationid","borough","zone","trips","avg_fare","avg_distance_mi","avg_duration_min","fare_per_minute","fare_per_mile","meets_min_volume"
+1,"EWR","Newark Airport",559,89.96,2.30,6.3,14.29,39.15,False
+2,"Queens","Jamaica Bay",6,33.75,13.02,29.2,1.16,2.59,False
+3,"Bronx","Allerton/Pelham Gardens",132,27.96,6.40,30.2,0.93,4.37,False
+4,"Manhattan","Alphabet City",12295,14.80,3.33,16.1,0.92,4.44,True
+5,"Staten Island","Arden Heights",79,64.52,13.82,88.8,0.73,4.67,False
+6,"Staten Island","Arrochar/Fort Wadsworth",48,8.94,1.44,2.9,3.13,6.22,False
+7,"Queens","Astoria",4937,16.33,3.81,17.6,0.93,4.29,False
+8,"Queens","Astoria Park",72,46.03,7.29,21.8,2.12,6.31,False
+9,"Queens","Auburndale",86,27.20,5.94,24.5,1.11,4.58,False
+10,"Queens","Baisley Park",3513,53.23,14.37,43.3,1.23,3.70,False
+11,"Brooklyn","Bath Beach",88,50.42,12.74,37.5,1.34,3.96,False
+12,"Manhattan","Battery Park",4776,18.50,4.69,21.0,0.88,3.95,False
+13,"Manhattan","Battery Park City",61356,18.03,4.78,19.1,0.94,3.78,True
+14,"Brooklyn","Bay Ridge",477,33.47,8.43,32.7,1.02,3.97,False
+15,"Queens","Bay Terrace/Fort Totten",87,29.86,7.93,26.9,1.11,3.77,False
+16,"Queens","Bayside",137,34.67,8.38,25.9,1.34,4.14,False
+17,"Brooklyn","Bedford",1030,22.88,5.22,25.8,0.89,4.38,False
+18,"Bronx","Bedford Park",239,32.10,7.88,33.8,0.95,4.08,False
+19,"Queens","Bellerose",146,35.06,8.41,26.9,1.30,4.17,False
+20,"Bronx","Belmont",123,28.40,6.55,28.4,1.00,4.34,False
+21,"Brooklyn","Bensonhurst East",124,32.58,7.97,34.1,0.96,4.09,False
+22,"Brooklyn","Bensonhurst West",177,33.71,8.17,32.0,1.05,4.13,False
+23,"Staten Island","Bloomfield/Emerson Hill",214,50.74,16.27,48.6,1.04,3.12,False
+24,"Manhattan","Bloomingdale",29421,13.00,2.94,14.7,0.89,4.42,True
+25,"Brooklyn","Boerum Hill",4461,19.78,4.80,22.0,0.90,4.12,False
+26,"Brooklyn","Borough Park",193,25.60,5.64,30.3,0.85,4.54,False
+27,"Queens","Breezy Point/Fort Tilden/Riis Beach",4,40.60,10.80,64.1,0.63,3.76,False
+28,"Queens","Briarwood/Jamaica Hills",707,40.07,8.73,26.6,1.51,4.59,False
+29,"Brooklyn","Brighton Beach",165,43.88,11.66,42.9,1.02,3.76,False
+30,"Queens","Broad Channel",6,35.03,11.34,33.4,1.05,3.09,False
+31,"Bronx","Bronx Park",42,32.48,7.06,29.6,1.10,4.60,False
+32,"Bronx","Bronxdale",117,27.75,6.07,29.9,0.93,4.57,False
+33,"Brooklyn","Brooklyn Heights",6130,21.16,5.42,22.5,0.94,3.90,True
+34,"Brooklyn","Brooklyn Navy Yard",306,20.33,4.94,22.8,0.89,4.11,False
+35,"Brooklyn","Brownsville",362,28.68,6.59,35.6,0.81,4.35,False
+36,"Brooklyn","Bushwick North",940,23.94,6.04,24.8,0.97,3.97,False
+37,"Brooklyn","Bushwick South",1238,24.78,6.08,26.8,0.93,4.08,False
+38,"Queens","Cambria Heights",195,42.12,10.76,37.2,1.13,3.91,False
+39,"Brooklyn","Canarsie",585,39.61,10.70,45.7,0.87,3.70,False
+40,"Brooklyn","Carroll Gardens",1506,19.78,5.06,21.7,0.91,3.91,False
+41,"Manhattan","Central Harlem",26058,13.05,2.92,14.4,0.90,4.46,True
+42,"Manhattan","Central Harlem North",8916,14.92,3.34,15.8,0.94,4.47,True
+43,"Manhattan","Central Park",161986,11.81,2.40,14.4,0.82,4.92,True
+44,"Staten Island","Charleston/Tottenville",105,58.81,20.57,42.7,1.38,2.86,False
+45,"Manhattan","Chinatown",13315,16.65,3.85,19.0,0.87,4.33,True
+46,"Bronx","City Island",28,33.35,8.75,38.6,0.86,3.81,False
+47,"Bronx","Claremont/Bathgate",208,25.45,5.66,29.8,0.86,4.50,False
+48,"Manhattan","Clinton East",291704,12.99,2.89,14.7,0.88,4.50,True
+49,"Brooklyn","Clinton Hill",1354,23.74,5.50,25.4,0.94,4.32,False
+50,"Manhattan","Clinton West",75756,12.84,2.84,14.5,0.89,4.51,True
+51,"Bronx","Co-Op City",498,37.53,9.08,34.6,1.08,4.13,False
+52,"Brooklyn","Cobble Hill",2329,18.36,4.63,20.3,0.90,3.96,False
+53,"Queens","College Point",106,35.83,9.78,35.5,1.01,3.66,False
+54,"Brooklyn","Columbia Street",178,22.46,5.19,19.9,1.13,4.33,False
+55,"Brooklyn","Coney Island",304,42.53,12.38,41.7,1.02,3.43,False
+56,"Queens","Corona",474,38.61,6.87,26.5,1.46,5.62,False
+57,"Queens","Corona",29,37.61,10.19,33.5,1.12,3.69,False
+58,"Bronx","Country Club",8,27.65,6.59,27.8,1.00,4.20,False
+59,"Bronx","Crotona Park",3,24.32,6.42,22.8,1.07,3.79,False
+60,"Bronx","Crotona Park East",93,25.56,5.17,27.6,0.92,4.94,False
+61,"Brooklyn","Crown Heights North",1681,25.21,5.64,27.8,0.91,4.47,False
+62,"Brooklyn","Crown Heights South",509,26.15,5.87,29.6,0.88,4.46,False
+63,"Brooklyn","Cypress Hills",193,33.93,7.64,32.1,1.06,4.44,False
+64,"Queens","Douglaston",58,32.56,8.59,23.3,1.40,3.79,False
+65,"Brooklyn","Downtown Brooklyn/MetroTech",7789,19.92,5.13,20.6,0.97,3.88,True
+66,"Brooklyn","DUMBO/Vinegar Hill",3645,20.25,5.04,21.6,0.94,4.02,False
+67,"Brooklyn","Dyker Heights",119,33.45,8.60,33.6,0.99,3.89,False
+68,"Manhattan","East Chelsea",249445,13.18,2.72,16.2,0.81,4.84,True
+69,"Bronx","East Concourse/Concourse Village",424,22.45,4.88,25.1,0.89,4.60,False
+70,"Queens","East Elmhurst",38078,32.00,9.73,30.8,1.04,3.29,True
+71,"Brooklyn","East Flatbush/Farragut",268,27.78,6.12,32.6,0.85,4.54,False
+72,"Brooklyn","East Flatbush/Remsen Village",394,27.67,6.03,33.5,0.82,4.59,False
+73,"Queens","East Flushing",40,24.73,5.37,30.8,0.80,4.61,False
+74,"Manhattan","East Harlem North",24079,12.70,2.88,13.4,0.95,4.41,True
+75,"Manhattan","East Harlem South",61116,12.48,2.81,13.7,0.91,4.44,True
+76,"Brooklyn","East New York",705,32.16,7.25,33.6,0.96,4.44,False
+77,"Brooklyn","East New York/Pennsylvania Avenue",142,29.33,6.72,32.5,0.90,4.36,False
+78,"Bronx","East Tremont",276,28.90,6.91,28.3,1.02,4.18,False
+79,"Manhattan","East Village",254036,12.32,2.78,14.0,0.88,4.43,True
+80,"Brooklyn","East Williamsburg",2683,24.19,5.61,21.5,1.12,4.31,False
+81,"Bronx","Eastchester",159,35.43,8.74,34.2,1.04,4.05,False
+82,"Queens","Elmhurst",1160,31.00,5.63,22.8,1.36,5.51,False
+83,"Queens","Elmhurst/Maspeth",392,23.56,4.39,19.1,1.23,5.37,False
+84,"Staten Island","Eltingville/Annadale/Prince's Bay",2,58.70,21.20,99.2,0.59,2.77,False
+85,"Brooklyn","Erasmus",231,28.59,6.47,32.6,0.88,4.42,False
+86,"Queens","Far Rockaway",240,47.30,13.23,50.8,0.93,3.58,False
+87,"Manhattan","Financial District North",63951,18.27,4.87,19.1,0.96,3.75,True
+88,"Manhattan","Financial District South",28482,18.97,5.08,20.0,0.95,3.74,True
+89,"Brooklyn","Flatbush/Ditmas Park",775,29.45,6.84,31.9,0.92,4.31,False
+90,"Manhattan","Flatiron",165214,11.89,2.44,14.3,0.83,4.87,True
+91,"Brooklyn","Flatlands",462,31.67,7.22,34.9,0.91,4.39,False
+92,"Queens","Flushing",393,31.56,7.10,27.5,1.15,4.44,False
+93,"Queens","Flushing Meadows-Corona Park",2159,46.35,9.50,27.1,1.71,4.88,False
+94,"Bronx","Fordham South",118,26.96,6.26,28.4,0.95,4.31,False
+95,"Queens","Forest Hills",1022,28.92,5.64,23.6,1.23,5.12,False
+96,"Queens","Forest Park/Highland Park",28,32.46,6.30,20.4,1.59,5.15,False
+97,"Brooklyn","Fort Greene",4046,18.11,4.38,19.8,0.91,4.14,False
+98,"Queens","Fresh Meadows",84,30.51,7.92,25.2,1.21,3.85,False
+99,"Staten Island","Freshkills Park",4,67.20,16.25,90.4,0.74,4.14,False
+100,"Manhattan","Garment District",160257,12.93,2.71,15.2,0.85,4.77,True
+101,"Queens","Glen Oaks",131,34.72,9.61,31.4,1.11,3.61,False
+102,"Queens","Glendale",149,30.02,5.40,25.3,1.19,5.56,False
+105,"Manhattan","Governor's Island/Ellis Island/Liberty Island",6,21.92,6.48,23.8,0.92,3.38,False
+106,"Brooklyn","Gowanus",540,23.77,5.99,27.3,0.87,3.97,False
+107,"Manhattan","Gramercy",226120,11.56,2.44,13.4,0.86,4.73,True
+108,"Brooklyn","Gravesend",202,43.14,12.98,47.2,0.91,3.32,False
+109,"Staten Island","Great Kills",9,70.60,11.60,60.0,1.18,6.09,False
+111,"Brooklyn","Green-Wood Cemetery",5,11.92,1.61,11.3,1.05,7.40,False
+112,"Brooklyn","Greenpoint",2160,19.53,4.74,20.2,0.97,4.12,False
+113,"Manhattan","Greenwich Village North",130443,11.99,2.42,14.8,0.81,4.95,True
+114,"Manhattan","Greenwich Village South",118820,12.37,2.67,14.8,0.84,4.63,True
+115,"Staten Island","Grymes Hill/Clifton",7,72.26,7.74,22.0,3.29,9.34,False
+116,"Manhattan","Hamilton Heights",8501,16.57,4.13,17.1,0.97,4.01,True
+117,"Queens","Hammels/Arverne",225,49.72,13.56,55.5,0.90,3.67,False
+118,"Staten Island","Heartland Village/Todt Hill",27,39.32,9.58,39.5,1.00,4.10,False
+119,"Bronx","Highbridge",420,28.65,6.59,27.1,1.06,4.35,False
+120,"Manhattan","Highbridge Park",51,34.21,5.80,18.8,1.82,5.90,False
+121,"Queens","Hillcrest/Pomonok",248,28.46,6.27,27.9,1.02,4.54,False
+122,"Queens","Hollis",98,36.99,8.87,37.4,0.99,4.17,False
+123,"Brooklyn","Homecrest",146,26.96,7.04,32.5,0.83,3.83,False
+124,"Queens","Howard Beach",198,46.59,10.63,32.0,1.46,4.38,False
+125,"Manhattan","Hudson Sq",51284,13.53,3.02,15.6,0.87,4.48,True
+126,"Bronx","Hunts Point",140,26.01,5.69,27.9,0.93,4.57,False
+127,"Manhattan","Inwood",498,25.81,6.78,23.5,1.10,3.81,False
+128,"Manhattan","Inwood Hill Park",60,23.50,6.58,24.6,0.95,3.57,False
+129,"Queens","Jackson Heights",2049,26.29,4.51,16.9,1.55,5.83,False
+130,"Queens","Jamaica",1179,42.93,10.36,31.3,1.37,4.14,False
+131,"Queens","Jamaica Estates",209,29.43,6.87,29.2,1.01,4.28,False
+132,"Queens","JFK Airport",516758,46.78,16.06,41.6,1.12,2.91,True
+133,"Brooklyn","Kensington",230,26.96,6.92,26.0,1.04,3.90,False
+134,"Queens","Kew Gardens",874,43.85,5.59,18.2,2.41,7.84,False
+135,"Queens","Kew Gardens Hills",289,25.48,5.86,21.4,1.19,4.35,False
+136,"Bronx","Kingsbridge Heights",201,29.79,7.21,30.5,0.98,4.13,False
+137,"Manhattan","Kips Bay",115370,11.58,2.54,13.0,0.89,4.55,True
+138,"Queens","LaGuardia Airport",278582,31.98,9.80,30.9,1.04,3.26,True
+139,"Queens","Laurelton",204,38.30,10.27,40.6,0.94,3.73,False
+140,"Manhattan","Lenox Hill East",191220,12.02,2.66,13.6,0.88,4.52,True
+141,"Manhattan","Lenox Hill West",243082,10.75,2.28,12.2,0.88,4.72,True
+142,"Manhattan","Lincoln Square East",308994,11.32,2.40,13.3,0.85,4.71,True
+143,"Manhattan","Lincoln Square West",112668,11.51,2.46,13.3,0.87,4.69,True
+144,"Manhattan","Little Italy/NoLiTa",80863,13.51,2.90,16.5,0.82,4.66,True
+145,"Queens","Long Island City/Hunters Point",4993,30.96,4.83,19.7,1.57,6.41,False
+146,"Queens","Long Island City/Queens Plaza",5450,16.00,3.49,16.6,0.96,4.58,True
+147,"Bronx","Longwood",85,23.82,5.33,28.7,0.83,4.47,False
+148,"Manhattan","Lower East Side",101687,14.29,3.38,15.6,0.91,4.22,True
+149,"Brooklyn","Madison",104,36.92,10.53,37.4,0.99,3.51,False
+150,"Brooklyn","Manhattan Beach",87,36.64,9.81,31.5,1.16,3.73,False
+151,"Manhattan","Manhattan Valley",86025,12.23,2.73,13.8,0.89,4.48,True
+152,"Manhattan","Manhattanville",7797,14.46,3.50,15.2,0.95,4.13,True
+153,"Manhattan","Marble Hill",77,23.96,5.89,24.7,0.97,4.07,False
+154,"Brooklyn","Marine Park/Floyd Bennett Field",125,27.79,7.45,21.5,1.29,3.73,False
+155,"Brooklyn","Marine Park/Mill Basin",278,36.35,9.32,34.0,1.07,3.90,False
+156,"Staten Island","Mariners Harbor",12,46.14,12.42,50.7,0.91,3.72,False
+157,"Queens","Maspeth",814,37.26,6.24,21.9,1.70,5.97,False
+158,"Manhattan","Meatpacking/West Village West",77493,13.32,2.91,16.0,0.83,4.58,True
+159,"Bronx","Melrose South",463,20.34,4.42,23.1,0.88,4.61,False
+160,"Queens","Middle Village",192,41.57,7.04,24.2,1.72,5.90,False
+161,"Manhattan","Midtown Center",394452,12.48,2.59,14.9,0.84,4.81,True
+162,"Manhattan","Midtown East",320569,12.01,2.55,13.9,0.86,4.72,True
+163,"Manhattan","Midtown North",273080,12.55,2.65,14.8,0.85,4.74,True
+164,"Manhattan","Midtown South",225461,12.56,2.66,14.7,0.86,4.73,True
+165,"Brooklyn","Midwood",313,27.35,6.02,34.7,0.79,4.54,False
+166,"Manhattan","Morningside Heights",51025,13.67,3.11,15.7,0.87,4.39,True
+167,"Bronx","Morrisania/Melrose",216,22.35,4.89,26.2,0.85,4.57,False
+168,"Bronx","Mott Haven/Port Morris",945,21.58,4.95,20.6,1.05,4.36,False
+169,"Bronx","Mount Hope",192,25.43,5.79,26.5,0.96,4.39,False
+170,"Manhattan","Murray Hill",299740,12.17,2.54,14.0,0.87,4.79,True
+171,"Queens","Murray Hill-Queens",115,29.54,6.93,32.4,0.91,4.27,False
+172,"Staten Island","New Dorp/Midland Beach",4,60.88,25.42,55.4,1.10,2.40,False
+173,"Queens","North Corona",131,23.64,5.54,22.5,1.05,4.27,False
+174,"Bronx","Norwood",213,29.35,7.26,29.5,0.99,4.04,False
+175,"Queens","Oakland Gardens",45,33.48,7.03,25.6,1.31,4.76,False
+176,"Staten Island","Oakwood",8,65.31,21.22,59.4,1.10,3.08,False
+177,"Brooklyn","Ocean Hill",438,27.10,6.14,30.6,0.89,4.41,False
+178,"Brooklyn","Ocean Parkway South",51,25.54,6.55,26.5,0.96,3.90,False
+179,"Queens","Old Astoria",1655,16.56,3.67,17.8,0.93,4.51,False
+180,"Queens","Ozone Park",119,42.24,7.78,28.5,1.48,5.43,False
+181,"Brooklyn","Park Slope",3080,20.74,5.03,23.4,0.89,4.12,False
+182,"Bronx","Parkchester",206,26.56,6.06,29.4,0.90,4.38,False
+183,"Bronx","Pelham Bay",72,28.97,6.54,29.3,0.99,4.43,False
+184,"Bronx","Pelham Bay Park",14,37.10,7.08,26.5,1.40,5.24,False
+185,"Bronx","Pelham Parkway",175,23.64,4.69,27.1,0.87,5.04,False
+186,"Manhattan","Penn Station/Madison Sq West",329535,12.77,2.52,16.2,0.79,5.06,True
+187,"Staten Island","Port Richmond",2,52.20,19.75,59.2,0.88,2.64,False
+188,"Brooklyn","Prospect-Lefferts Gardens",937,25.93,5.86,29.8,0.87,4.42,False
+189,"Brooklyn","Prospect Heights",1058,22.36,5.41,23.9,0.93,4.13,False
+190,"Brooklyn","Prospect Park",188,21.88,5.25,24.8,0.88,4.17,False
+191,"Queens","Queens Village",343,37.24,9.85,34.5,1.08,3.78,False
+192,"Queens","Queensboro Hill",102,32.08,7.93,28.2,1.14,4.04,False
+193,"Queens","Queensbridge/Ravenswood",1698,16.46,3.62,18.4,0.90,4.55,False
+194,"Manhattan","Randalls Island",555,40.64,6.15,20.5,1.98,6.61,False
+195,"Brooklyn","Red Hook",994,32.96,9.25,31.7,1.04,3.56,False
+196,"Queens","Rego Park",545,37.49,6.59,24.4,1.53,5.69,False
+197,"Queens","Richmond Hill",921,45.54,7.02,26.1,1.74,6.49,False
+198,"Queens","Ridgewood",324,25.25,6.14,27.0,0.94,4.12,False
+199,"Bronx","Rikers Island",4,25.25,8.22,19.4,1.30,3.07,False
+200,"Bronx","Riverdale/North Riverdale/Fieldston",143,36.42,10.27,31.6,1.15,3.55,False
+201,"Queens","Rockaway Park",83,44.41,12.45,45.1,0.99,3.57,False
+202,"Manhattan","Roosevelt Island",345,23.26,5.15,23.5,0.99,4.52,False
+203,"Queens","Rosedale",276,42.13,11.35,37.4,1.13,3.71,False
+204,"Staten Island","Rossville/Woodrow",1,67.20,25.80,59.9,1.12,2.60,False
+205,"Queens","Saint Albans",499,35.76,8.53,37.0,0.97,4.19,False
+206,"Staten Island","Saint George/New Brighton",21,46.61,15.61,69.5,0.67,2.99,False
+207,"Queens","Saint Michaels Cemetery/Woodside",261,29.92,5.44,22.2,1.35,5.50,False
+208,"Bronx","Schuylerville/Edgewater Park",172,27.31,5.73,22.5,1.22,4.77,False
+209,"Manhattan","Seaport",20245,17.68,4.59,18.5,0.96,3.86,True
+210,"Brooklyn","Sheepshead Bay",327,41.31,12.44,35.4,1.17,3.32,False
+211,"Manhattan","SoHo",73141,13.38,2.88,16.3,0.82,4.64,True
+212,"Bronx","Soundview/Bruckner",131,24.27,5.72,26.3,0.92,4.24,False
+213,"Bronx","Soundview/Castle Hill",471,29.90,7.70,29.3,1.02,3.88,False
+214,"Staten Island","South Beach/Dongan Hills",12,59.97,15.54,36.9,1.62,3.86,False
+215,"Queens","South Jamaica",1224,52.34,12.92,38.1,1.38,4.05,False
+216,"Queens","South Ozone Park",1824,55.02,6.25,17.4,3.16,8.80,False
+217,"Brooklyn","South Williamsburg",296,22.64,4.94,22.4,1.01,4.58,False
+218,"Queens","Springfield Gardens North",444,32.82,7.76,35.5,0.93,4.23,False
+219,"Queens","Springfield Gardens South",1092,54.39,13.90,38.5,1.41,3.91,False
+220,"Bronx","Spuyten Duyvil/Kingsbridge",315,24.57,5.89,21.8,1.13,4.17,False
+221,"Staten Island","Stapleton",8,28.12,8.92,28.7,0.98,3.15,False
+222,"Brooklyn","Starrett City",298,41.91,9.89,42.3,0.99,4.24,False
+223,"Queens","Steinway",2278,34.39,6.75,21.2,1.62,5.09,False
+224,"Manhattan","Stuy Town/Peter Cooper Village",13803,13.43,3.01,14.8,0.91,4.46,True
+225,"Brooklyn","Stuyvesant Heights",830,25.07,5.63,28.7,0.87,4.45,False
+226,"Queens","Sunnyside",7345,26.21,5.02,21.7,1.21,5.22,True
+227,"Brooklyn","Sunset Park East",128,28.80,6.80,34.2,0.84,4.24,False
+228,"Brooklyn","Sunset Park West",548,29.47,7.53,28.1,1.05,3.91,False
+229,"Manhattan","Sutton Place/Turtle Bay North",201909,11.00,2.33,12.6,0.87,4.71,True
+230,"Manhattan","Times Sq/Theatre District",303061,14.82,3.40,16.9,0.88,4.36,True
+231,"Manhattan","TriBeCa/Civic Center",142723,14.75,3.45,16.9,0.87,4.28,True
+232,"Manhattan","Two Bridges/Seward Park",13047,17.20,3.96,17.8,0.97,4.34,True
+233,"Manhattan","UN/Turtle Bay South",127321,14.16,2.82,14.0,1.01,5.02,True
+234,"Manhattan","Union Sq",262738,11.48,2.28,14.1,0.81,5.03,True
+235,"Bronx","University Heights/Morris Heights",512,40.06,11.65,38.4,1.04,3.44,False
+236,"Manhattan","Upper East Side North",391961,10.77,2.16,12.8,0.84,4.98,True
+237,"Manhattan","Upper East Side South",448038,10.10,1.95,12.0,0.84,5.19,True
+238,"Manhattan","Upper West Side North",195238,11.81,2.59,13.4,0.88,4.56,True
+239,"Manhattan","Upper West Side South",269889,11.54,2.50,13.3,0.87,4.62,True
+240,"Bronx","Van Cortlandt Park",21,39.57,9.11,32.4,1.22,4.34,False
+241,"Bronx","Van Cortlandt Village",228,29.84,7.17,29.9,1.00,4.16,False
+242,"Bronx","Van Nest/Morris Park",380,24.89,5.09,27.5,0.91,4.89,False
+243,"Manhattan","Washington Heights North",1296,23.43,6.07,21.1,1.11,3.86,False
+244,"Manhattan","Washington Heights South",7274,18.98,4.95,18.7,1.01,3.83,True
+245,"Staten Island","West Brighton",5,47.79,13.73,26.8,1.78,3.48,False
+246,"Manhattan","West Chelsea/Hudson Yards",152974,12.76,2.64,15.6,0.82,4.83,True
+247,"Bronx","West Concourse",887,23.16,5.68,23.2,1.00,4.08,False
+248,"Bronx","West Farms/Bronx River",154,27.19,6.50,29.4,0.93,4.19,False
+249,"Manhattan","West Village",204377,12.12,2.59,14.5,0.83,4.68,True
+250,"Bronx","Westchester Village/Unionport",195,28.63,7.02,31.6,0.91,4.08,False
+251,"Staten Island","Westerleigh",7,68.59,18.02,33.2,2.07,3.81,False
+252,"Queens","Whitestone",85,41.42,8.63,22.9,1.81,4.80,False
+253,"Queens","Willets Point",47,40.46,8.88,23.2,1.74,4.55,False
+254,"Bronx","Williamsbridge/Olinville",430,36.45,9.50,38.1,0.96,3.84,False
+255,"Brooklyn","Williamsburg (North Side)",4906,19.15,4.62,21.1,0.91,4.15,False
+256,"Brooklyn","Williamsburg (South Side)",3950,20.02,4.59,20.6,0.97,4.36,False
+257,"Brooklyn","Windsor Terrace",164,24.76,6.16,25.0,0.99,4.02,False
+258,"Queens","Woodhaven",163,32.08,6.15,29.1,1.10,5.21,False
+259,"Bronx","Woodlawn/Wakefield",154,34.19,8.84,35.2,0.97,3.87,False
+260,"Queens","Woodside",1832,26.96,5.01,20.2,1.34,5.38,False
+261,"Manhattan","World Trade Center",53405,18.62,4.76,20.7,0.90,3.91,True
+262,"Manhattan","Yorkville East",127497,12.11,2.78,13.0,0.93,4.36,True
+263,"Manhattan","Yorkville West",199824,11.34,2.58,12.3,0.92,4.39,True
